@@ -1,6 +1,6 @@
 #pragma once
-#ifndef __PUBLIC_DEFINE_H_
-#define __PUBLIC_DEFINE_H_
+#ifndef __PUB_FILE_H_
+#define __PUB_FILE_H_
 
 #include <Windows.h>
 #include <string>
