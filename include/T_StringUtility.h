@@ -1,7 +1,7 @@
 #pragma once
 #ifndef __STRING_UTILITY_H_
 #define __STRING_UTILITY_H_
-#include "PublicDefine.h"
+#include "Pubfile.h"
 class T_StringUtility
 {
 public:

@@ -30,9 +30,6 @@
     <ClInclude Include="targetver.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="..\include\PublicDefine.h">
-      <Filter>include</Filter>
-    </ClInclude>
     <ClInclude Include="..\include\T_DateTimeUtil.h">
       <Filter>include</Filter>
     </ClInclude>
@@ -49,6 +46,9 @@
       <Filter>include</Filter>
     </ClInclude>
     <ClInclude Include="..\include\T_SafeQueue.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\Pubfile.h">
       <Filter>include</Filter>
     </ClInclude>
   </ItemGroup>

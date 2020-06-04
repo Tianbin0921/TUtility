@@ -1,7 +1,7 @@
 #pragma once
 #ifndef __T_THREAD_H
 #define __T_THREAD_H
-#include "PublicDefine.h"
+#include "Pubfile.h"
 class T_Thread
 {
 public:

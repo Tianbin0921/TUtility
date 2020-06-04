@@ -1,5 +1,5 @@
 #include "stdafx.h"
-#include "PublicDefine.h"
+#include "Pubfile.h"
 #include "T_IniFile.h"
 #include <sstream>
 

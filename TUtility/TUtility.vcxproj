@@ -147,7 +147,7 @@
     <Text Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\include\PublicDefine.h" />
+    <ClInclude Include="..\include\Pubfile.h" />
     <ClInclude Include="..\include\T_DateTimeUtil.h" />
     <ClInclude Include="..\include\T_IniFile.h" />
     <ClInclude Include="..\include\T_SafeQueue.h" />
